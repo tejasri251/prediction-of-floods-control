@@ -1,0 +1,2 @@
+# prediction-of-floods-control
+Floods are inevitable, but with timely alerts, their effects can be minimized. There are a number of people who die every year due to devastating floods, the number of people becomes homeless and a number of people die due to lack of proper help after a flood. The lack of timely alerts has always been an issue concerning it. Delay in alerts in flood prone areas is the biggest loophole of an economy. Conventional systems run a little low in forecasting floods at the right time so that proper actions could be taken before any disaster
